@@ -8,3 +8,8 @@ GettingStartedLib/GettingStartedLib.csproj.user
 GettingStartedLib/IService1.cs
 GettingStartedLib/Service1.cs
 GettingStartedLib/obj/
+/GettingStartedLib/bin/Debug
+/GettingStartedClient/bin/Debug
+/.vs/GettingStarted/v16
+/GettingStartedHost/bin/Debug
+/GettingStartedHost/GettingStartedHost.csproj.user
