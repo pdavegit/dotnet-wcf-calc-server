@@ -5,8 +5,6 @@ GettingStartedHost/Settings1.settings
 GettingStartedHost/obj/
 GettingStartedLib/App.config.orig
 GettingStartedLib/GettingStartedLib.csproj.user
-GettingStartedLib/IService1.cs
-GettingStartedLib/Service1.cs
 GettingStartedLib/obj/
 /GettingStartedLib/bin/Debug
 /GettingStartedClient/bin/Debug
