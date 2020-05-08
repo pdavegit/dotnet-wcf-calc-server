@@ -1,0 +1,10 @@
+GettingStartedClient/obj/
+GettingStartedClient/temp/
+GettingStartedHost/Settings1.Designer.cs
+GettingStartedHost/Settings1.settings
+GettingStartedHost/obj/
+GettingStartedLib/App.config.orig
+GettingStartedLib/GettingStartedLib.csproj.user
+GettingStartedLib/IService1.cs
+GettingStartedLib/Service1.cs
+GettingStartedLib/obj/
